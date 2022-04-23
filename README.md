@@ -38,7 +38,7 @@
 ## ☾︎𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁☽︎
   <div align="center">
   
-   [![WINDRO SER](https://i.imgur.com/snKWQib.jpg)](https://github.com/wvfx-windro)[`WINTRO SER`](https://imgur.com/FufgKus)
+   [![ABHI SER](https://i.imgur.com/vwKsur5.jpeg)](https://github.com/abhiannan)[`ABHI SER`](https://i.imgur.com/vwKsur5.jpeg)
 ----|
    `Bot Creater, Bug Fixes, Modules`
 
